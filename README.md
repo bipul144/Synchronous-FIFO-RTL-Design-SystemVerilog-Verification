@@ -5,8 +5,8 @@ class-based, UVM-style SystemVerilog testbench (transaction / generator /
 driver / monitor / scoreboard architecture) built directly on mailboxes and
 events rather than the UVM library.
  
-> 📄 See [`docs/REPORT.pdf`](docs/REPORT.pdf) (also available as
-> [`docs/REPORT.md`](docs/REPORT.md)) for the full detailed design and
+> 📄 See [`docs/REPORT.pdf`](REPORT.pdf) (also available as
+> [`docs/REPORT.md`](REPORT.md)) for the full detailed design and
 > verification report, including architecture, signal descriptions,
 > verification methodology, and known limitations.
  
