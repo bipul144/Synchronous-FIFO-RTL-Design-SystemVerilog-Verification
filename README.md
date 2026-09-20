@@ -123,5 +123,4 @@ read+write support, no functional coverage collection, and the
 `tr.randomize` call missing parentheses.
  
 ## License
- 
-Add a license of your choice (e.g. MIT) here before publishing.
+
