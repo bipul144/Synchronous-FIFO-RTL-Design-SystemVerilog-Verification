@@ -122,5 +122,4 @@ for details on: `mem`/`dout` not being cleared on reset, no simultaneous
 read+write support, no functional coverage collection, and the
 `tr.randomize` call missing parentheses.
  
-## License
 
